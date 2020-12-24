@@ -2,21 +2,20 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ShardulVanage.ShardulVanage)
 
 <a href="https://twitter.com/ShardulVanage">
-  <img align="left" alt="ShardulVanage | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+<img alt="ShardulVanage | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" /></a>
 <a href="https://instagram.com/shardulvanage">
-  <img align="left" alt="ShardulVanage | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+  <img alt="ShardulVanage Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://www.facebook.com/ShardulVanage">
-  <img align="left" alt="ShardulVanage | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
+  <img alt="ShardulVanage Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shardul-vanage-294823200/">
-  <img align="left" alt="ShardulVanage | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
+  <img alt="gShardulVanage LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 </br>
 </br>
 
-Hi I'm [Shardul](https://prathmeshsadake.github.io), a Frontend Web Developer  who loves building webpages and Software products.
+Hi I'm [Shardul](https://ShardulVanage.github.io), a Frontend Web Developer  who loves building webpages and Software products.
 I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="333" height="213" /> -->
 
