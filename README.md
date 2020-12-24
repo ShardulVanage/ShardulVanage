@@ -4,15 +4,15 @@
 <p align="center">
 <br/>
 <a href="https://twitter.com/ShardulVanage">
-<img alt="ShardulVanage | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" /></a>
+<img align="left" alt="ShardulVanage | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" /></a>
 <a href="https://instagram.com/shardulvanage">
-  <img alt="ShardulVanage Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img align="left" alt="ShardulVanage Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://www.facebook.com/ShardulVanage">
-  <img alt="ShardulVanage Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
+  <img align="left" alt="ShardulVanage Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shardul-vanage-294823200/">
-  <img alt="gShardulVanage LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img align="left" alt="gShardulVanage LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 </br>
 </br>
