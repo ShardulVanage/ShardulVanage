@@ -7,10 +7,10 @@
 <a href="https://instagram.com/shardulvanage">
   <img align="left" alt="ShardulVanage | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
 </a>
-<a href="https://www.facebook.com/Shardul.Vanage">
+<a href="https://www.facebook.com/ShardulVanage">
   <img align="left" alt="ShardulVanage | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
 </a>
-<a href="https://linkedin.com/in/Shardul.Vanage">
+<a href="https://linkedin.com/in/ShardulVanage">
   <img align="left" alt="ShardulVanage | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
 </a>
 </br>
