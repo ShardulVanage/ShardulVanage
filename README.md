@@ -2,16 +2,16 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ShardulVanage.ShardulVanage)
 
 <a href="https://twitter.com/ShardulVanage">
-  <img align="left" alt="PrathmeshSadake | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="ShardulVanage | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://instagram.com/shardulvanage">
-  <img align="left" alt="PrathmeshSadake | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+  <img align="left" alt="ShardulVanage | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
 </a>
-<a href="https://www.facebook.com/Shardul Vanage">
-  <img align="left" alt="PrathmeshSadake | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
+<a href="https://www.facebook.com/Shardul.Vanage">
+  <img align="left" alt="ShardulVanage | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
 </a>
-<a href="https://linkedin.com/in/Shardul Vanage">
-  <img align="left" alt="PrathmeshSadake | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
+<a href="https://linkedin.com/in/Shardul.Vanage">
+  <img align="left" alt="ShardulVanage | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
 </a>
 </br>
 </br>
@@ -24,4 +24,4 @@ I’d love to combine my passion for learning and developing with my software de
 **Talking about Personal Stuffs:**
 
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: prathmeshsadake@gmail.com
+- 📫 How to reach me: vsharadul@gmail.com
