@@ -26,7 +26,48 @@ I’d love to combine my passion for learning and developing with my software de
 </p>
 
 
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/demartini/demartini/blob/master/code.gif">
+
+### - Learning :
+- ✨ Flutter/Dart
+- ✨ HTML/CSS/JS
+- ✨ Java
+- ✨ C/C++
+
+### - Hobbies : 
+- ✨ Gaming
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Badminton (Neighbourhood Professional XD)
+
+</br>
+</br>
+</br>
+
+
+
+
+
 **Talking about Personal Stuffs:**
 
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: vsharadul@gmail.com
+
+
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=ShardulVanage&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+
