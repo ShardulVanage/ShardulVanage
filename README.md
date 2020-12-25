@@ -23,7 +23,7 @@ I’d love to combine my passion for learning and developing with my software de
 
 
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/demartini/demartini/blob/master/code.gif">
+<img hight="300" width="500" alt="GIF" align="right" src="https://github.com/demartini/demartini/blob/master/code.gif">
 
 ### - Learning :
 - ✨ Flutter/Dart
