@@ -21,9 +21,6 @@ Hi I'm [Shardul](https://ShardulVanage.github.io), a Frontend Web Developer  who
 I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people
 <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="333" height="213" /> -->
 
-<p align="right">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif"width="400" height="300">
-</p>
 
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/demartini/demartini/blob/master/code.gif">
