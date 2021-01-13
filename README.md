@@ -25,7 +25,7 @@ I’d love to combine my passion for learning and developing with my software de
 - ✨ Gaming
 - ✨ Watching Anime
 - ✨ Reading Light Novels
-- ✨ Badminton (Neighbourhood Professional XD)
+
 
 </br>
 </br>
