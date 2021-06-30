@@ -14,11 +14,6 @@ I’d love to combine my passion for learning and developing with my software de
 </br>
 </br>
 
-
-</br>
-</br>
-</br>
-
 <p align="center">
 <br/>
 <a href="https://twitter.com/ShardulVanage">
