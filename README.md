@@ -3,7 +3,6 @@
 
 
 </br>
-</br>
 
 Hi I'm [Shardul](https://ShardulVanage.github.io), a Frontend Web Developer  who loves building webpages and Software products.
 I’d love to combine my passion for learning and developing with my software development skills to continue building personalized products for people
@@ -11,8 +10,7 @@ I’d love to combine my passion for learning and developing with my software de
 
 
 </br>
-</br>
-</br>
+
 
 <p align="center">
 <br/>
