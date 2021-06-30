@@ -13,18 +13,6 @@ I’d love to combine my passion for learning and developing with my software de
 </br>
 </br>
 </br>
-<img hight="270" width="400" alt="GIF" align="right" src="https://github.com/demartini/demartini/blob/master/code.gif">
-
-### - Learning :
-- ✨ Flutter/Dart
-- ✨ HTML/CSS/JS
-- ✨ Java
-- ✨ C/C++
-
-### - Hobbies : 
-- ✨ Gaming
-- ✨ Watching Anime
-- ✨ Reading Light Novels
 
 
 </br>
