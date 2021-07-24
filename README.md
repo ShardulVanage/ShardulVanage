@@ -16,7 +16,7 @@ I’d love to combine my passion for learning and developing with my software de
 <br/>
 <a href="https://twitter.com/ShardulVanage">
 <img align="center" alt="ShardulVanage | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" /></a>
-<a href="https://instagram.com/shardulvanage">
+<a href="https://instagram.com/shardul.vanage">
   <img align="center" alt="ShardulVanage Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 <a href="https://www.facebook.com/ShardulVanage">
