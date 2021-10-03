@@ -30,7 +30,7 @@ I’d love to combine my passion for learning and developing with my software de
 
 **Talking about Personal Stuffs:**
 
-- 💬 Ask me about anything, I am happy to help
+
 - 📫 How to reach me: vsharadul@gmail.com
 
 
