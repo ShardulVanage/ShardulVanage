@@ -49,5 +49,7 @@ I’d love to combine my passion for learning and developing with my software de
 <img  src="https://github-readme-stats.vercel.app/api?username=ShardulVanage&&show_icons=true&theme=radical"/>
   </a>
   </p>
+  
+ <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=shardulvanage&theme=react-dark" /> </p>
 
 
