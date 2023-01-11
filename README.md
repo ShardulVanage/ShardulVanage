@@ -1,8 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=ShardulVanage.ShardulVanage)
-
-- [@Portfolio](https://shardul-vanage.netlify.app/)
-
+```bash
+ [@Portfolio](https://shardul-vanage.netlify.app/)
+```
 </br>
 
 Hi I'm [Shardul](https://ShardulVanage.github.io), a Frontend Web Developer  who loves building webpages and Software products.
