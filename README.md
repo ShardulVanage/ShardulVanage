@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Shardul Vanage 👋
 
 ## 🚀 Full Stack Developer | Open Source Enthusiast | Continuous Learner
 
